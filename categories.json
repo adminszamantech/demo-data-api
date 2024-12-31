@@ -1,53 +1,54 @@
- items: [
+{
+    "items": [
         {
-            id: 1,
-            image: '',
-            text: "DISCOVER",
+            "id": 1,
+            "image": "",
+            "text": "DISCOVER"
         },
         {
-            id: 2,
-            image: '',
-            text: "TABLE GAMES",
+            "id": 2,
+            "image": "",
+            "text": "TABLE GAMES"
         },
         {
-            id: 3,
-            image: '',
-            text: "CRASH",
+            "id": 3,
+            "image": "",
+            "text": "CRASH"
         },
         {
-            id: 4,
-            image: '',
-            text: "CASINO",
+            "id": 4,
+            "image": "",
+            "text": "CASINO"
         },
         {
-            id: 5,
-            image: '',
-            text: "LIVE CASINO",
+            "id": 5,
+            "image": "",
+            "text": "LIVE CASINO"
         },
         {
-            id: 6,
-            image: '',
-            text: "ROULETTE",
+            "id": 6,
+            "image": "",
+            "text": "ROULETTE"
         },
         {
-            id: 7,
-            image: '',
-            text: "SLOT",
+            "id": 7,
+            "image": "",
+            "text": "SLOT"
         },
         {
-            id: 8,
-            image: '',
-            text: "INSTANT WIN",
+            "id": 8,
+            "image": "",
+            "text": "INSTANT WIN"
         },
         {
-            id: 9,
-            image: '',
-            text: "E SPORTS",
+            "id": 9,
+            "image": "",
+            "text": "E SPORTS"
         },
         {
-            id: 10,
-            image: '',
-            text: "OTHERS",
-        },
-
+            "id": 10,
+            "image": "",
+            "text": "OTHERS"
+        }
     ]
+}
