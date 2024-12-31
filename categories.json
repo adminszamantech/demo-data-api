@@ -1,0 +1,53 @@
+items: [
+        {
+            id: 1,
+            image: selectAll,
+            text: "DISCOVER",
+        },
+        {
+            id: 2,
+            image: billiard,
+            text: "TABLE GAMES",
+        },
+        {
+            id: 3,
+            image: airplane,
+            text: "CRASH",
+        },
+        {
+            id: 4,
+            image: roulette,
+            text: "CASINO",
+        },
+        {
+            id: 5,
+            image: camera,
+            text: "LIVE CASINO",
+        },
+        {
+            id: 6,
+            image: roulette,
+            text: "ROULETTE",
+        },
+        {
+            id: 7,
+            image: slotmachine,
+            text: "SLOT",
+        },
+        {
+            id: 8,
+            image: moneytransfer,
+            text: "INSTANT WIN",
+        },
+        {
+            id: 9,
+            image: Esportss2w,
+            text: "E SPORTS",
+        },
+        {
+            id: 10,
+            image: menuimg,
+            text: "OTHERS",
+        },
+
+    ]
